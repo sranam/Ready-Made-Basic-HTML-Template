@@ -1,1 +1,1 @@
-# Ready-Made-Basic-HTML-Template
+# Ready-Made-Starter-HTML-Template
