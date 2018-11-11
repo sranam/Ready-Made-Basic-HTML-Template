@@ -1,0 +1,3698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PortBox\n"
+"POT-Creation-Date: 2017-06-07 16:08+0600\n"
+"PO-Revision-Date: 2017-06-07 16:09+0600\n"
+"Last-Translator: \n"
+"Language-Team: PortBox Team\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:120 index.php:108 search.php:120
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:121 index.php:109 search.php:121
+msgid "Next page"
+msgstr ""
+
+#: archive.php:122 index.php:110 search.php:122
+msgid "Page"
+msgstr ""
+
+#: comments.php:55
+msgid "Reply"
+msgstr ""
+
+#: comments.php:61 single.php:105
+msgid "Previous"
+msgstr ""
+
+#: comments.php:62 single.php:106
+msgid "Next"
+msgstr ""
+
+#: functions.php:83
+msgid "Main Menu"
+msgstr ""
+
+#: header.php:88
+msgid "This is test text"
+msgstr "এটা নীরিক্ষা লেখা"
+
+#: inc/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3301
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:616
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:731
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1035
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1035
+#: inc/class-tgm-plugin-activation.php:1045
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1045
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2103
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2431
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2434
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2437
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2454
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2458
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2460
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2466
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2469
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2472
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2629
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2637
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2649
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2672
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2686
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2687
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2692
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2742
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2747
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2753
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2825
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2858
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2864
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2867
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2898
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2900
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2941
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2943
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3050
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3076
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3300
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3640
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3643
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3645
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3649
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3651
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3651
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3651
+#: inc/class-tgm-plugin-activation.php:3659
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3652
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3654
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3657
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3659
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3660
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3662
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:26
+msgid "Slider Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:32
+msgid "Slider Left Images"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:33 inc/portbox-cmb2-metabox.php:41
+msgid ""
+"Upload 4 images max. Image size 300x200 would be great. You can upload any "
+"numbers of images. But remember, the display image width is 155 (whatever "
+"yours) and height is auto (what yours), meaning you can keep the same height "
+"of your images or different as your design meets. And you can upload any "
+"width image but not less than 155. In fact, the whole thing is up to your "
+"discretion and choices."
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:40
+msgid "Slider Right Images"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:52
+msgid "Education Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:58
+msgid "Education Insitute Name"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:59
+msgid "Write your educational institute name from where you got your degree"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:65
+msgid "Education Session"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:66
+msgid "Give your education session."
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:72
+msgid "Grade Point"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:73
+msgid "Mention your grade point"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:84
+msgid "Experience Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:90
+msgid "Experience Institute"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:91
+msgid "Mention your institute from where you got experienced"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:97
+msgid "Experience Duration"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:98
+msgid "Give your experience time duration"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:109
+msgid "Service Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:115
+msgid "Service Icon Name"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:116
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like facebook, wordpress, etc. You "
+"can find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:126
+msgid "Portfolio Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:132
+msgid "Portfolio Icon Name"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:133
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like file,facebook, wordpress, etc. "
+"You can find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:139
+msgid "Portfolio Permalink Icon Name"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:140
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like link,facebook, wordpress, etc. "
+"You can find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:146
+msgid "Portfolio Lightbox Icon Name"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:147
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like eye,facebook, wordpress, etc. "
+"You can find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:157
+msgid "Testimonial Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:163
+msgid "Testimonial User Icon Name"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:164
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like user,facebook, wordpress, etc. "
+"You can find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:170
+msgid "Testimonial User Rank"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:171
+msgid "Write the testimonial user rank like CEO, BDLance E-Learning etc."
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:177
+msgid "Testimonial User URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:178
+msgid ""
+"Give the user profile url(external) address. Or, you can keep this blank. In "
+"this case, the default url is the permalink i.e. the single testimonial user "
+"post page link."
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:188
+msgid "Team Member Position or Rank Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:194
+msgid "Team Member Position/Rank"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:195
+msgid ""
+"Write the team member rank/position in your company like CEO, BDLance E-"
+"Learning etc."
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:201
+msgid "Team Member URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:202
+msgid ""
+"Give the team member profile url(external) address. Or, you can keep this "
+"blank. In this case, the default url is the permalink i.e. the single team "
+"member post page link."
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:210
+msgid "Team Member Social Profiles Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:216
+msgid "Facebook URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:217
+msgid "Give your Facebook profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:222
+msgid "Twitter URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:223
+msgid "Give your twitter profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:228
+msgid "Linkedin URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:229
+msgid "Give your Linkedin profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:234
+msgid "Pinterest URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:235
+msgid "Give your pinterest profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:240
+msgid "Google Plus URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:241
+msgid "Give your google plus profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:246
+msgid "Stumbleupon URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:247
+msgid "Give your stumbleupon profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:252
+msgid "Github URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:253
+msgid "Give your Github profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:258
+msgid "Youtube URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:259
+msgid "Give your Youtube profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:264
+msgid "Instagram URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:265
+msgid "Give your Instagram profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:270
+msgid "Vine URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:271
+msgid "Give your Vine profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:276
+msgid "Tumblr URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:277
+msgid "Give your Tumblr profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:282
+msgid "Medium URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:283
+msgid "Give your Medium profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:293
+msgid "Market Place Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:299
+msgid "Market Place Icon"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:300 inc/portbox-cmb2-metabox.php:323
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like user,pencil-square-o, wordpress, "
+"etc. You can find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:305
+msgid "Market Place URL Address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:306
+msgid "Give your market place profile url address"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:316
+msgid "General Post Metabox"
+msgstr ""
+
+#: inc/portbox-cmb2-metabox.php:322
+msgid "General Post Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:35
+#: inc/portbox-redux-theme-options.php:36
+msgid "Theme Options"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:139
+msgid "Documentation"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:145
+msgid "Support"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:151
+msgid "Extensions"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:185
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:202
+msgid "Theme Information 1"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:203
+#: inc/portbox-redux-theme-options.php:208
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:207
+msgid "Theme Information 2"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:214
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:238
+msgid "Header"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:240
+msgid "Decorate your header section from this option panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:247
+msgid "LOGO SETTINGS."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:248
+msgid "You can control logo from this panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:254
+msgid "Use Logo As"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:264
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:265
+#: inc/portbox-redux-theme-options.php:266
+msgid "You can upload any logo image. Maximum image size 172x63"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:275
+msgid "Logo Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:276
+msgid "You can write any text to use as logo."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:283
+msgid "Logo Font Typography"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:292
+msgid "Set logo font typography settings. "
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:306
+msgid "SITE TITLE AND SUBTITLE SETTINGS"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:307
+msgid ""
+"You can set site title and subtitle text and typography from this pannel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:312
+msgid "Site Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:313
+msgid ""
+"Write the SITE OWNER NAME OR SITE TITLE like Jhone Doe,Shohel Rana, PortBox "
+"WordPress Site etc. If you keep this blank, the site title you gave "
+"(settings->general->Site Title) from admin panel will be displayed."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:321
+msgid "Site Title Font Typography"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:330
+msgid "Set site title font typography settings."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:343
+msgid "Site Sub Title."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:344
+msgid ""
+"Write the SITE OWNER sub title or SITE SUBTITLE like \"A Veteran Web "
+"Developer\" etc. Or, if you keep this blank, the tag line set from admin "
+"panel (settings->general->Tagline) will be displayed."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:352
+msgid "Site Sub Title Font Typography"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:361
+msgid "Set site sub title font typography settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:375
+msgid "HEADER RIGHT INFO SETTINGS."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:376
+msgid "You can set the header right info settings form this panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:381
+msgid "Skype ID."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:382
+msgid "Write a skype id like jhone, rana etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:391
+msgid "Skype Icon."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:392
+#: inc/portbox-redux-theme-options.php:667
+#: inc/portbox-redux-theme-options.php:950
+#: inc/portbox-redux-theme-options.php:999
+#: inc/portbox-redux-theme-options.php:1049
+#: inc/portbox-redux-theme-options.php:1126
+#: inc/portbox-redux-theme-options.php:1295
+#: inc/portbox-redux-theme-options.php:1384
+#: inc/portbox-redux-theme-options.php:1520
+#: inc/portbox-redux-theme-options.php:1707
+#: inc/portbox-redux-theme-options.php:1823
+#: inc/portbox-redux-theme-options.php:1980
+#: inc/portbox-redux-theme-options.php:2131
+#: inc/portbox-redux-theme-options.php:2243
+#: inc/portbox-redux-theme-options.php:2293
+#: inc/portbox-redux-theme-options.php:2334
+#: inc/portbox-redux-theme-options.php:2410
+#: inc/portbox-redux-theme-options.php:2432
+#: inc/portbox-redux-theme-options.php:2454
+#: inc/portbox-redux-theme-options.php:2474
+#: inc/portbox-redux-theme-options.php:2487
+#: inc/portbox-redux-theme-options.php:2500
+#: inc/portbox-redux-theme-options.php:2513
+#: inc/portbox-redux-theme-options.php:2527
+#: inc/portbox-redux-theme-options.php:2541
+#: inc/portbox-redux-theme-options.php:2554
+#: inc/portbox-redux-theme-options.php:2567
+#: inc/portbox-redux-theme-options.php:3618
+#: inc/portbox-redux-theme-options.php:3680
+#: inc/portbox-redux-theme-options.php:3742
+#: inc/portbox-redux-theme-options.php:3796
+#: inc/portbox-redux-theme-options.php:3829
+#: inc/portbox-redux-theme-options.php:3896
+#: inc/portbox-redux-theme-options.php:3929
+#: inc/portbox-redux-theme-options.php:3980
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like skype, envelope, etc. You can "
+"find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:401
+msgid "Email Address."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:402
+msgid "Write the site owner's email address like example@gmail.com, etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:413
+msgid "Email Icon."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:414
+#, php-format
+msgid ""
+"Just mention the fontawesome icon name like envelope, user, etc. You can "
+"find the icon name list %s"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:425
+msgid "Footer"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:427
+msgid "Decorate your footer section from this option panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:433
+#: inc/portbox-redux-theme-options.php:447
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:434
+msgid "Write your copyright text here"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:441
+msgid "COPYRIGHT TEXT TYPOGRAPHY."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:442
+msgid "You can control copyright text typography from the option panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:457
+msgid "Set copyright font typography settings."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:471
+msgid "Home Page Layout Manager"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:473
+msgid ""
+"Manage your home page layouts from this option panel. You can activate or "
+"deactivate and of course sort any sections"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:503
+msgid "Slider"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:504
+msgid "Set your slider settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:511
+msgid "Slider (Show/Side)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:512
+msgid "Show/Hide slider"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:520
+msgid "Slider Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:521
+msgid "Set the slider overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:534
+msgid "Hire Me Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:535
+#: inc/portbox-redux-theme-options.php:536
+#: inc/portbox-redux-theme-options.php:2078
+#: inc/portbox-redux-theme-options.php:2079
+msgid "Change the see more text from this option"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:543
+msgid "Hire Me Link"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:544
+msgid "You can set any url like any internal or external page url"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:545
+msgid "Default URL is the HIRE SECTION."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:553
+msgid "Select Slider Animation"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:554
+#: inc/portbox-redux-theme-options.php:555
+msgid "Just select your slider animation type you like"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:569
+msgid "Slide Transition Duration"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:570
+msgid "Define the transition duration."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:571
+msgid "Slider description. Min: 100, max: 1000, step: 100, default value: 500"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:582
+msgid "First Slide Item"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:583
+msgid "Define the first slideshow item to be displayed."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:584
+msgid "Slider description. Min: 0, max: 10, step: 1, default value: 0"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:595
+msgid "Switching Slider Autoplay"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:596
+msgid "Switch off to stop the slider autoplay"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:603
+msgid "Slider Autoplay Interval"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:604
+msgid "Define the timespan between switching slideshow items."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:605
+msgid ""
+"Slider description. Min: 1000 millisecond, max: 10000 millisecond, step: "
+"100, default value: 7000 millisecond"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:616
+msgid "Switching Pause on hover"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:617
+msgid "Switch off to continue autoplay when hovering a slideshow."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:626
+msgid "Section-Specific Settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:628
+msgid "You can set your page section settings from this panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:633
+msgid "About Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:634
+msgid "Set your about section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:642
+msgid "About Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:643
+#: inc/portbox-redux-theme-options.php:644
+#: inc/portbox-redux-theme-options.php:926
+#: inc/portbox-redux-theme-options.php:927
+#: inc/portbox-redux-theme-options.php:1102
+#: inc/portbox-redux-theme-options.php:1103
+#: inc/portbox-redux-theme-options.php:1271
+#: inc/portbox-redux-theme-options.php:1272
+#: inc/portbox-redux-theme-options.php:1360
+#: inc/portbox-redux-theme-options.php:1361
+#: inc/portbox-redux-theme-options.php:1496
+#: inc/portbox-redux-theme-options.php:1497
+#: inc/portbox-redux-theme-options.php:1683
+#: inc/portbox-redux-theme-options.php:1684
+#: inc/portbox-redux-theme-options.php:1799
+#: inc/portbox-redux-theme-options.php:1800
+#: inc/portbox-redux-theme-options.php:1956
+#: inc/portbox-redux-theme-options.php:1957
+#: inc/portbox-redux-theme-options.php:2107
+#: inc/portbox-redux-theme-options.php:2108
+#: inc/portbox-redux-theme-options.php:2219
+#: inc/portbox-redux-theme-options.php:2220
+#: inc/portbox-redux-theme-options.php:2310
+#: inc/portbox-redux-theme-options.php:2311
+msgid "This id and the menu id related to this section must be identical"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:649
+msgid "About Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:650
+msgid "This section is for about section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:656
+#: inc/portbox-redux-theme-options.php:939
+#: inc/portbox-redux-theme-options.php:1115
+#: inc/portbox-redux-theme-options.php:1284
+#: inc/portbox-redux-theme-options.php:1373
+#: inc/portbox-redux-theme-options.php:1509
+#: inc/portbox-redux-theme-options.php:1696
+#: inc/portbox-redux-theme-options.php:1812
+#: inc/portbox-redux-theme-options.php:1969
+#: inc/portbox-redux-theme-options.php:2120
+#: inc/portbox-redux-theme-options.php:2232
+#: inc/portbox-redux-theme-options.php:2323
+msgid "Section Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:657
+#: inc/portbox-redux-theme-options.php:940
+#: inc/portbox-redux-theme-options.php:1116
+#: inc/portbox-redux-theme-options.php:1285
+#: inc/portbox-redux-theme-options.php:1374
+#: inc/portbox-redux-theme-options.php:1510
+#: inc/portbox-redux-theme-options.php:1697
+#: inc/portbox-redux-theme-options.php:1813
+#: inc/portbox-redux-theme-options.php:1970
+#: inc/portbox-redux-theme-options.php:2121
+#: inc/portbox-redux-theme-options.php:2233
+#: inc/portbox-redux-theme-options.php:2324
+msgid "Select section title ICON/IMAGE"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:665
+msgid "About Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:666
+#: inc/portbox-redux-theme-options.php:949
+#: inc/portbox-redux-theme-options.php:1125
+#: inc/portbox-redux-theme-options.php:1294
+#: inc/portbox-redux-theme-options.php:1383
+#: inc/portbox-redux-theme-options.php:1519
+#: inc/portbox-redux-theme-options.php:1706
+#: inc/portbox-redux-theme-options.php:1822
+#: inc/portbox-redux-theme-options.php:1979
+#: inc/portbox-redux-theme-options.php:2130
+#: inc/portbox-redux-theme-options.php:2242
+#: inc/portbox-redux-theme-options.php:2333
+msgid "This icon will be appeared at the top of the section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:674
+#: inc/portbox-redux-theme-options.php:957
+#: inc/portbox-redux-theme-options.php:1133
+#: inc/portbox-redux-theme-options.php:1302
+#: inc/portbox-redux-theme-options.php:1391
+#: inc/portbox-redux-theme-options.php:1527
+#: inc/portbox-redux-theme-options.php:1714
+#: inc/portbox-redux-theme-options.php:1830
+#: inc/portbox-redux-theme-options.php:1987
+#: inc/portbox-redux-theme-options.php:2138
+#: inc/portbox-redux-theme-options.php:2250
+#: inc/portbox-redux-theme-options.php:2341
+msgid "Section Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:675
+#: inc/portbox-redux-theme-options.php:958
+#: inc/portbox-redux-theme-options.php:1134
+#: inc/portbox-redux-theme-options.php:1303
+#: inc/portbox-redux-theme-options.php:1392
+#: inc/portbox-redux-theme-options.php:1528
+#: inc/portbox-redux-theme-options.php:1715
+#: inc/portbox-redux-theme-options.php:1831
+#: inc/portbox-redux-theme-options.php:2139
+#: inc/portbox-redux-theme-options.php:2251
+#: inc/portbox-redux-theme-options.php:2342
+msgid ""
+"Upload the section title image if you don't like to use icon. Maximum image "
+"size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:676
+#: inc/portbox-redux-theme-options.php:959
+#: inc/portbox-redux-theme-options.php:1135
+#: inc/portbox-redux-theme-options.php:1304
+#: inc/portbox-redux-theme-options.php:1393
+#: inc/portbox-redux-theme-options.php:1529
+#: inc/portbox-redux-theme-options.php:1716
+#: inc/portbox-redux-theme-options.php:1832
+#: inc/portbox-redux-theme-options.php:1989
+#: inc/portbox-redux-theme-options.php:2140
+#: inc/portbox-redux-theme-options.php:2252
+#: inc/portbox-redux-theme-options.php:2343
+msgid "This image will be appeared at the top of the section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:682
+msgid "About Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:683
+#: inc/portbox-redux-theme-options.php:684
+#: inc/portbox-redux-theme-options.php:966
+#: inc/portbox-redux-theme-options.php:967
+#: inc/portbox-redux-theme-options.php:1142
+#: inc/portbox-redux-theme-options.php:1143
+#: inc/portbox-redux-theme-options.php:1311
+#: inc/portbox-redux-theme-options.php:1312
+#: inc/portbox-redux-theme-options.php:1400
+#: inc/portbox-redux-theme-options.php:1401
+#: inc/portbox-redux-theme-options.php:1536
+#: inc/portbox-redux-theme-options.php:1537
+#: inc/portbox-redux-theme-options.php:1723
+#: inc/portbox-redux-theme-options.php:1724
+#: inc/portbox-redux-theme-options.php:1839
+#: inc/portbox-redux-theme-options.php:1840
+#: inc/portbox-redux-theme-options.php:1996
+#: inc/portbox-redux-theme-options.php:1997
+#: inc/portbox-redux-theme-options.php:2147
+#: inc/portbox-redux-theme-options.php:2148
+#: inc/portbox-redux-theme-options.php:2259
+#: inc/portbox-redux-theme-options.php:2260
+#: inc/portbox-redux-theme-options.php:2350
+#: inc/portbox-redux-theme-options.php:2351
+msgid "This title will be appeared below the icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:690
+msgid "About Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:691
+#: inc/portbox-redux-theme-options.php:692
+#: inc/portbox-redux-theme-options.php:974
+#: inc/portbox-redux-theme-options.php:975
+#: inc/portbox-redux-theme-options.php:1150
+#: inc/portbox-redux-theme-options.php:1151
+#: inc/portbox-redux-theme-options.php:1319
+#: inc/portbox-redux-theme-options.php:1320
+#: inc/portbox-redux-theme-options.php:1408
+#: inc/portbox-redux-theme-options.php:1409
+#: inc/portbox-redux-theme-options.php:1544
+#: inc/portbox-redux-theme-options.php:1545
+#: inc/portbox-redux-theme-options.php:1731
+#: inc/portbox-redux-theme-options.php:1732
+#: inc/portbox-redux-theme-options.php:1847
+#: inc/portbox-redux-theme-options.php:1848
+#: inc/portbox-redux-theme-options.php:2004
+#: inc/portbox-redux-theme-options.php:2155
+#: inc/portbox-redux-theme-options.php:2267
+#: inc/portbox-redux-theme-options.php:2358
+msgid ""
+"Write a short description of the section. Maximum 25-30 words would be fine "
+"for better display."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:701
+msgid "About Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:702
+msgid "This section is for about section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:726
+msgid "About Tab Me"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:727
+msgid "This section is for about tab me area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:733
+msgid "Me Tab Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:734
+#: inc/portbox-redux-theme-options.php:783
+#: inc/portbox-redux-theme-options.php:825
+#: inc/portbox-redux-theme-options.php:839
+#: inc/portbox-redux-theme-options.php:881
+#: inc/portbox-redux-theme-options.php:895
+#: inc/portbox-redux-theme-options.php:909
+msgid "Write the tab name."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:740
+msgid "Me Tab Content Heading"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:741
+#: inc/portbox-redux-theme-options.php:846
+msgid "Write the tab content heading"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:747
+msgid "Me Tab Content Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:748
+#: inc/portbox-redux-theme-options.php:860
+msgid ""
+"Write a description of your tab. You can use any html tag in this editor box"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:754
+msgid "Me Tab Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:755
+#: inc/portbox-redux-theme-options.php:867
+msgid ""
+"Just write the fontawesome icon name like user, facebook etc. You can find "
+"the icons name from here "
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:762
+msgid "Person Pic"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:764
+msgid "Upload your pic."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:765
+msgid "Upload image"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:775
+msgid "About Tab Expertise"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:776
+msgid "This section is for about tab expertise area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:782
+msgid "Expertise Tab  Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:790
+msgid "Expertise/Skill Set."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:791
+msgid ""
+"You can set and style the expertise/skill set from the option panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:796
+msgid "Expertise Areas"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:797
+msgid ""
+"Unlimited Expertise Areas Options with drag and drop sortings. Remember, no "
+"need to upload anything. Just set value as described in the box."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:799
+msgid "Write an expertise area name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:800
+msgid ""
+"You can set the bootstrap progress bar style like 'progress-bar-success', "
+"'progress-bar-striped' etc. separatedly or with combination. Look! If you "
+"set the background color below, then this bootstrap style given here will be "
+"overridden. You may find more options at http://getbootstrap.com/components/"
+"#progress"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:801
+msgid "Set the progressbar value numerically as 30,40 etc"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:807
+msgid "Expertise Background Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:808
+msgid "Change the expertise background color."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:809
+msgid ""
+"Change the expertise background color. If you'd like to see the bootstrap "
+"style given above, then you must not set any color here,or this color will "
+"override the bootstrap style. If you set neither this nor that bootstrap "
+"style, bootstrap default color will be applied. And this color is applied "
+"for all of the expertise areas generally"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:817
+msgid "About Tab Market Place"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:818
+msgid "This section is for about tab market place area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:824
+msgid "Market Place Tab Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:831
+msgid "About Tab Company"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:832
+msgid ""
+"This section is for about tab company area. The other options of this "
+"sections can be found at SECTION SPECIFIC SETTINGS->MARKET PLACE SECTION"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:838
+msgid "Company Tab Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:845
+msgid "Company Tab Content Heading"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:852
+msgid "Company URL"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:853
+msgid "Give company URL like http://srthemeaction.com"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:859
+msgid "Company Tab Content Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:866
+msgid "Company Tab Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:873
+msgid "About Tab Social Post"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:874
+msgid ""
+"This section is for about tab social post area. Some other options can be "
+"found on SOCIAL POSTS SECTION under SECTION SPECIFIC SETTINGS"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:880
+msgid "Social Post Tab Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:887
+msgid "About Tab blog Post"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:888
+msgid ""
+"This section is for ABOUT TAB BLOG POST area. Some other options can be "
+"found on BLOG POSTS SECTION under SECTION SPECIFIC SETTINGS"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:894
+msgid "Blog Post Tab Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:901
+msgid "About Tab Contact"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:902
+msgid "This section is for about tab contact area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:908
+msgid "Contact Tab Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:916
+msgid "Resume Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:917
+msgid "Set your resume section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:925
+msgid "Resume Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:932
+msgid "Resume Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:933
+msgid "This section is for resume section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:948
+msgid "Resume Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:965
+msgid "Resume Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:973
+msgid "Resume Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:984
+msgid "Resume Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:985
+msgid "This section is for resume section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:992
+msgid "EDUCATION INFO SETTINGS."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:993
+msgid "Set your education info from the options panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:998
+msgid "Education Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1005
+msgid "Education Title Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1006
+msgid "Specify the education title font properties."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1023
+msgid "Education Meta Info Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1024
+msgid "Specify the education meta info font properties."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1042
+msgid "EXPERIENCE INFO SETTINGS."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1043
+msgid "Set your experience info from the options panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1048
+msgid "Experience Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1055
+msgid "Experience Title Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1056
+msgid "Specify the experience title font properties."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1073
+msgid "Experience Meta Info Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1074
+msgid "Specify the experience meta info font properties."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1092
+msgid "Service Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1093
+msgid "Set your service section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1101
+msgid "Service Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1108
+msgid "Service Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1109
+msgid "This section is for service section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1124
+msgid "Service Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1141
+msgid "Service Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1149
+msgid "Servicet Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1160
+msgid "Service Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1161
+msgid "This section is for service section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1167
+#: inc/portbox-redux-theme-options.php:1425
+#: inc/portbox-redux-theme-options.php:1561
+#: inc/portbox-redux-theme-options.php:1748
+#: inc/portbox-redux-theme-options.php:1864
+#: inc/portbox-redux-theme-options.php:2021
+#: inc/portbox-redux-theme-options.php:2172
+msgid "Section Content Layout"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1168
+#: inc/portbox-redux-theme-options.php:1426
+#: inc/portbox-redux-theme-options.php:1562
+#: inc/portbox-redux-theme-options.php:1749
+#: inc/portbox-redux-theme-options.php:1865
+#: inc/portbox-redux-theme-options.php:2173
+msgid "Set the section column number you would love to see."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1194
+msgid "Service Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1195
+msgid "Set the service overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1207
+msgid "Service Content Icon Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1208
+msgid "Change the service content icon color."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1216
+#: inc/portbox-redux-theme-options.php:1601
+#: inc/portbox-redux-theme-options.php:1900
+msgid "Next-Prev Button Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1217
+msgid "Set the service coursel next-prev button color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1229
+#: inc/portbox-redux-theme-options.php:1614
+#: inc/portbox-redux-theme-options.php:1913
+msgid "Next-Prev Button Hover Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1230
+msgid "Set the service coursel next-prev button hover color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1242
+#: inc/portbox-redux-theme-options.php:1627
+#: inc/portbox-redux-theme-options.php:1926
+msgid "NextPrev Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1243
+#: inc/portbox-redux-theme-options.php:1628
+#: inc/portbox-redux-theme-options.php:1927
+msgid "Specify the Carousel NextPrev font properties."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1261
+msgid "Portfolio Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1262
+msgid "Set your portfolio section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1270
+msgid "Portfolio Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1277
+msgid "Portfolio Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1278
+#: inc/portbox-redux-theme-options.php:1419
+msgid "This section is for portfolio section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1293
+msgid "Portfolio Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1310
+msgid "Portfolio Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1318
+msgid "Portfolio Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1329
+msgid "Portfolio Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1330
+msgid "This section is for portfolio section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1336
+msgid "Portfolio Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1337
+msgid "Set the portfolio overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1350
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1351
+msgid "Set your testimonial section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1359
+msgid "Testimonial Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1366
+msgid "Testimonial Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1367
+msgid "This section is for testimonial section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1382
+msgid "Testimonial Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1399
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1407
+msgid "Testimonial Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1418
+msgid "Testimonial Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1452
+msgid "Carousel Dot Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1453
+msgid "Set the testimonial carousel dot color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1464
+msgid "Client Position Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1472
+msgid ""
+"Set client position text typography settings. Look! This typography will be "
+"applied to the article content of posts, pages, slider, service etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1486
+msgid "Team Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1487
+msgid "Set your team section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1495
+msgid "Team Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1502
+msgid "Team Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1503
+msgid "This section is for team section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1518
+msgid "Team Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1535
+msgid "Team Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1543
+msgid "Team Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1554
+msgid "Team Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1555
+msgid "This section is for team section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1588
+msgid "Team Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1589
+msgid "Set the team overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1602
+msgid "Set the team coursel next-prev button color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1615
+msgid "Set the team coursel next-prev button hover color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1646
+msgid "Team Member Social Profiles Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1647
+msgid "This section is for styling team member social profiles"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1653
+#: inc/portbox-redux-theme-options.php:3360
+msgid "Social Profile Icon Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1654
+#: inc/portbox-redux-theme-options.php:3361
+msgid "Change social profile icon color."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1662
+#: inc/portbox-redux-theme-options.php:3369
+msgid "Social Profile Icon Background Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1663
+#: inc/portbox-redux-theme-options.php:3370
+msgid "Change social profile icon background color."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1673
+msgid "Market Place Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1674
+msgid "Set your market place section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1682
+msgid "Market Place Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1689
+msgid "Market Place Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1690
+msgid "This section is for market place section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1705
+msgid "Market Place Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1722
+msgid "Market Place Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1730
+msgid "Market Place Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1741
+msgid "Market Place Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1742
+msgid "This section is for market place section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1775
+msgid "Market Place Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1776
+msgid "Set the market place overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1789
+msgid "Client Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1790
+msgid "Set your client section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1798
+msgid "Client Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1805
+msgid "Client Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1806
+msgid "This section is for client section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1821
+msgid "Client Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1838
+msgid "Client Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1846
+msgid "Client Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1857
+msgid "Client Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1858
+msgid "This section is for client section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1887
+msgid "Client Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1888
+msgid "Set the client overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1901
+msgid "Set the client coursel next-prev button color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1914
+msgid "Set the client coursel next-prev button hover color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1946
+msgid "Blog Post Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1947
+msgid "Set your blog post section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1955
+msgid "Blog Post Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1962
+msgid "Blog Post Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1963
+msgid "This section is for blog post section title area settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1978
+msgid "Blog Post Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1988
+msgid ""
+"Upload the section title image if you don't like to use icon. The image size "
+"172x63 max would be great for your design."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:1995
+msgid "Blog Post Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2003
+msgid "Blog Post Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2005
+#: inc/portbox-redux-theme-options.php:2156
+#: inc/portbox-redux-theme-options.php:2268
+#: inc/portbox-redux-theme-options.php:2359
+msgid ""
+"Write a short description of the section. Maximum 25-30 words would be fine "
+"for better display. You may use html tags, give style etc. as you can do in "
+"a text editor."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2014
+msgid "Blog Post Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2015
+msgid "This section is for blog post section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2022
+msgid "Set the section column number in a row you would love to see."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2048
+msgid "Posts Number Displayed in The Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2049
+msgid "Just select posts number you want to display in this section."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2050
+msgid ""
+"The post numbers you select will be displayed in the section. You may have "
+"to adjust this posts number and the column number above."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2064
+msgid "Blog Post Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2065
+msgid "Set the blog post overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2077
+msgid "See More Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2086
+msgid "See More Link"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2087
+msgid ""
+"You can set any url like any internal or external page url. Default url is "
+"the blog page of the theme."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2088
+msgid "You can set any internal or external page url like http://example.com"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2097
+msgid "Social Post Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2098
+msgid "Set your social post section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2106
+msgid "Social Post Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2113
+msgid "Social Post Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2114
+msgid "This section is for social post section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2129
+msgid "Social Post Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2146
+msgid "Social Post Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2154
+msgid "Social Post Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2165
+msgid "Social Post Section content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2166
+msgid "This section is for social post section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2195
+msgid "Social Post Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2196
+msgid "Set the social post overlay color with opacity."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2209
+msgid "Hire Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2210
+msgid "Set your hire section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2218
+msgid "Hire Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2225
+msgid "Hire Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2226
+msgid "This section is for hire section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2241
+msgid "Hire Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2258
+msgid "Hire Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2266
+msgid "Hire Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2277
+msgid "Hire Section content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2278
+msgid "This section is for hire section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2284
+msgid "Hire Form Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2285
+msgid "Write the hire form title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2291
+msgid "Hire Form Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2292
+msgid "This icon will be appeared at the top right corner of the hire form"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2300
+msgid "Contact Section"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2301
+msgid "Set your contact section settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2309
+msgid "Contact Section ID"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2316
+msgid "Contact Section Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2317
+msgid "This section is for contact section title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2332
+msgid "Contact Section Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2349
+msgid "Contact Section Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2357
+msgid "Contact Section Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2368
+msgid "Contact Section Content Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2369
+msgid "This section is for contact section content area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2376
+msgid "LAYOUT SELECTION."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2377
+msgid ""
+"Select the column layout of the contact form and google map ie. whether the "
+"form/map to be at the left or right from the option panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2382
+msgid "Select Content Right/Left"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2383
+msgid "Select form and map position"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2395
+msgid "EMAIL CONTACT FORM"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2396
+msgid ""
+"Set options for email contact form from the option panel below. Thease "
+"options will be applied to the CONTACT ME SECTION and ABOUT SECTION CONTACT "
+"TAB as well."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2401
+msgid "Email Form Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2402
+msgid "Write the email form title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2408
+msgid "Email Contact Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2409
+msgid ""
+"This icon will be appeared at the top right corner of the email contact "
+"form. You can find the icon styling option in the STYLING OPTIONS->SECTIONS "
+"CONTENT ICON COLOR option panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2417
+msgid "GOOGLE MAP"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2418
+msgid "Set options for google map from the option panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2423
+msgid "Map Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2424
+msgid "Write the google map title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2430
+msgid "Map Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2431
+msgid "This icon will be appeared at the top right corner of the google map"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2439
+#: inc/portbox-redux-theme-options.php:2460
+msgid "ADDRESS"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2440
+msgid "Set options for address from the option panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2445
+msgid "Address Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2446
+msgid "Write the address title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2452
+#: inc/portbox-redux-theme-options.php:2486
+msgid "Address Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2453
+msgid "This icon will be appeared at the top right corner of the address"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2461
+msgid "Give address info below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2467 layouts/about-tab/about-me.php:33
+msgid "Name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2468
+msgid "Write your name"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2473
+msgid "Name Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2480 layouts/about-tab/about-me.php:34
+msgid "Address"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2481
+msgid "Write your address"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2493 layouts/about-tab/about-me.php:35
+msgid "Phone"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2494
+msgid "Give your phone number"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2499
+msgid "Phone Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2506 layouts/about-tab/about-me.php:36
+msgid "Skype"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2507
+msgid "Give your skype ID like 'example'"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2512
+msgid "Skype Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2519 layouts/about-tab/about-me.php:37
+msgid "Email"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2520
+msgid "Give your email ID like 'example@gmail.com'"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2526
+msgid "Email Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2533 layouts/about-tab/about-me.php:38
+msgid "Website"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2535
+msgid "Write your web address like 'https://example.com'"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2540
+msgid "Website Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2547 layouts/about-tab/about-me.php:39
+msgid "Date of Birth"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2548
+msgid "Write your date of birth"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2553
+msgid "Date of Birth Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2560 layouts/about-tab/about-me.php:40
+msgid "Nationality"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2561
+msgid "Write your nationality like Bangladeshi, British etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2566
+msgid "Nationality Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2575
+msgid "General Styles"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2577
+msgid "Give style to your site whatever you want."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2584
+msgid "Body Background"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2585
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2595
+msgid "Section Background"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2596
+msgid "Section background with image, color, etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2601
+msgid "Border Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2602
+msgid "Change your theme border color, style, width etc"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2605
+msgid "Change your theme border color, style, width etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2618
+msgid "Sections Title Icon Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2619
+msgid "Change the sections title icon  color."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2627
+msgid "Sections Content Icon Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2628
+msgid "Change the sections content icon color."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2636
+msgid "Horizontal Line Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2637
+#: inc/portbox-redux-theme-options.php:2640
+msgid "Change horizontal line color, width and style."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2650
+msgid "Links Color Option"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2651
+msgid "Change all text link color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2652
+msgid ""
+"This style will be applied to the overall theme link color such as blog post "
+"date, comment, author name, read more link, email link, portfolio category "
+"name and all other links."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2666
+msgid "Accordion (ON/OFF)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2667
+msgid "Switch off to deactivate the accordion"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2673
+msgid "Accordion Text Change"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2674
+msgid "Change the accordion text below every section."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2675
+#: inc/portbox-redux-theme-options.php:2684
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2682
+msgid "Portfolio Accordion Text Change"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2683
+msgid "Change the portfolioaccordion text below every section."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2691
+msgid "Toggle Text Border Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2692
+msgid "You can change your toggle text border color, style, width etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2695
+msgid ""
+"You may have to change your toggle text border color, style, width etc, if "
+"you change the theme border using the option above."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2709
+msgid "Section Overlay (ON/OFF)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2710
+msgid "Switch off to remove the section overlay"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2716
+msgid "Section Overlay Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2717
+msgid "Choose the sections overlay color with opacity"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2734
+msgid "Button Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2736
+msgid "Decorate your button style from this option panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2742
+msgid "Slider See More Button Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2743
+msgid "This section is for styling slider see more button"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2749
+#: inc/portbox-redux-theme-options.php:2852
+#: inc/portbox-redux-theme-options.php:2955
+#: inc/portbox-redux-theme-options.php:3057
+msgid "Button Regular Background Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2750
+#: inc/portbox-redux-theme-options.php:2751
+#: inc/portbox-redux-theme-options.php:2956
+#: inc/portbox-redux-theme-options.php:3058
+#: inc/portbox-redux-theme-options.php:3059
+msgid "Choose button regular color with opacity"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2763
+#: inc/portbox-redux-theme-options.php:2866
+#: inc/portbox-redux-theme-options.php:2968
+#: inc/portbox-redux-theme-options.php:3071
+msgid "Button Regular Border Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2764
+#: inc/portbox-redux-theme-options.php:2765
+#: inc/portbox-redux-theme-options.php:2969
+#: inc/portbox-redux-theme-options.php:2970
+#: inc/portbox-redux-theme-options.php:3072
+#: inc/portbox-redux-theme-options.php:3073
+msgid "Choose button border style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2779
+#: inc/portbox-redux-theme-options.php:2882
+#: inc/portbox-redux-theme-options.php:2984
+#: inc/portbox-redux-theme-options.php:3087
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2780
+#: inc/portbox-redux-theme-options.php:2781
+#: inc/portbox-redux-theme-options.php:2985
+#: inc/portbox-redux-theme-options.php:2986
+#: inc/portbox-redux-theme-options.php:3088
+#: inc/portbox-redux-theme-options.php:3089
+msgid "Choose button hover color with opacity"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2793
+#: inc/portbox-redux-theme-options.php:2896
+#: inc/portbox-redux-theme-options.php:2998
+#: inc/portbox-redux-theme-options.php:3101
+msgid "Button Hover Border Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2794
+#: inc/portbox-redux-theme-options.php:2795
+#: inc/portbox-redux-theme-options.php:2999
+#: inc/portbox-redux-theme-options.php:3000
+#: inc/portbox-redux-theme-options.php:3102
+#: inc/portbox-redux-theme-options.php:3103
+msgid "Choose button hover border style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2812
+#: inc/portbox-redux-theme-options.php:2934
+#: inc/portbox-redux-theme-options.php:3017
+#: inc/portbox-redux-theme-options.php:3120
+msgid "Button Padding"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2813
+#: inc/portbox-redux-theme-options.php:2814
+#: inc/portbox-redux-theme-options.php:2935
+#: inc/portbox-redux-theme-options.php:2936
+#: inc/portbox-redux-theme-options.php:3018
+#: inc/portbox-redux-theme-options.php:3019
+#: inc/portbox-redux-theme-options.php:3121
+#: inc/portbox-redux-theme-options.php:3122
+msgid "Set padding to button."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2826
+#: inc/portbox-redux-theme-options.php:2912
+#: inc/portbox-redux-theme-options.php:3031
+#: inc/portbox-redux-theme-options.php:3134
+msgid "Button Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2827
+#: inc/portbox-redux-theme-options.php:2828
+msgid "Set the button font."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2845
+msgid "Portfolio Button Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2846
+msgid "This section is for styling portfolio filter buttons"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2853
+#: inc/portbox-redux-theme-options.php:2854
+msgid "Choose portfolio button regular color with opacity"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2867
+#: inc/portbox-redux-theme-options.php:2868
+msgid "Choose portfolio button regualar border style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2883
+#: inc/portbox-redux-theme-options.php:2884
+msgid "Choose portfolio button hover color with opacity"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2897
+#: inc/portbox-redux-theme-options.php:2898
+msgid "Choose portfolio button hover border style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2913
+#: inc/portbox-redux-theme-options.php:2914
+msgid "Set the portfolio button font."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2948
+msgid "Form Submit Button Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:2949
+msgid "This section is for styling submit buttons used in the theme form"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3032
+#: inc/portbox-redux-theme-options.php:3033
+#: inc/portbox-redux-theme-options.php:3135
+#: inc/portbox-redux-theme-options.php:3136
+msgid "Set the buttons font."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3050
+msgid "Hire Form Submit Button Style"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3051
+msgid "This section is for styling hire form submit buttons."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3154
+msgid "General Typography"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3156
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3163
+msgid "SECTION TITLE AND CONTENT TEXT TYPOGRAPHY."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3164
+msgid ""
+"You can control section title and content text typography from the option "
+"panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3169
+msgid "Section Title Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3178
+msgid "Set section title font typography settings."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3191
+msgid "Section Description/Subtitle Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3200
+msgid "Set section description font typography settings."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3214
+msgid "Section Content Heading h4"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3223
+msgid ""
+"Set section content heading (h4) font typography settings. This style will "
+"be applied to the overall content headeing such as SERVICE ITEM NAME, "
+"PORTFOLIO ITEM NAME, TESTIMONIAL USER NAME, TEAM MEMBER NAME and POSITION, "
+"MARKET PLACE NAME and CLICK HERE TEXT, BLOG POST TITLE, SOCIAL WEBSITE NAME "
+"etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3236
+msgid "Section Content Paragraph Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3244
+msgid ""
+"Set section paragraph font typography settings. Look! This typography will "
+"be applied to the article content of posts, pages, slider, service etc."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3258
+msgid "SECTION ACCORDION TOGGLE TEXT TYPOGRAPHY."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3259
+msgid ""
+"You can control section accordion toggle text typography from the option "
+"panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3264
+msgid "Accordion clicktoclose Font"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3274
+msgid ""
+"Set accordion font typography settings. If you set accordion to ON from "
+"Accordion (ON/OFF) under STYLING OPTIONS section, then you would find this "
+"text (Hey explorer! Click Here to Explore Details) below every section. "
+"Clicking over this text you can open the section and see details."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3288
+msgid "CONTACT/HIRE FORM TEXT TYPOGRAPHY."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3289
+msgid "You can set form (contact/hire) typography from the option panel below."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3294
+msgid "Contact and Hire Form Level Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3304
+msgid ""
+"Set contact and hire form level text font typography settings. This "
+"typography will be applied to the level text of the contact and hire form "
+"both and and fieldset p existed in the ABOUT section CONTACT ME tab, contact "
+"section and hire section."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3316
+msgid "Hire Form Fieldset Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3326
+msgid ""
+"Set HIRE FORM fieldset legend text  font typography settings. HIRE FORM "
+"exists in the HIRE section."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3340
+msgid "Social Connetion"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3342
+msgid "Decorate your social profiles icons from this option panel."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3349
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3350
+msgid ""
+"Unlimited Social Profile Options with drag and drop sortings. Remember, no "
+"need to upload anything and keep blank the description field"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3352
+msgid "Write a fontawesome icon name like facebook, twitter etc"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3353
+msgid "Just keep this field blank. No data required."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3354
+msgid "Give the social profile link like http://www.facebook.com"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3381
+msgid "Social Posts Embed"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3384
+msgid ""
+"This option panel will help you embed your social posts like facebook post, "
+"twitter tweets, linkedin member profile, pinterest board pin etc. to your "
+"theme. These embeded posts will be appeared in two sections-  SOCIAL POSTS "
+"and ABOUT section's Social Posts tab."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3389
+msgid "Facebook Social Posts Embed"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3390
+msgid ""
+"There are two options here. Facebook JavaScript SDK and post embed code. If "
+"you use <iframe> code for embedding, no need to load SDK. You may keep blank "
+"the SDK box or keep the default."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3396
+msgid "Facebook JavaScript SDK Code"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3397
+msgid ""
+"Paste your Facebook JavaScript SDK  code to be loaded immediate after <body> "
+"tag."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3398
+#, php-format
+msgid ""
+"If you don't use <iframe> as embed code in the box below, then you must use "
+"SDK code. You may keep this default code. If it works, then OK. But if not, "
+"you have to collect your code from %s. Remember you have to load this code "
+"in your theme just once. NO NEED to load more than one time for the "
+"different purposes. And %s is an awesome English tutorial made only for you"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3413
+msgid "Facebook Social Posts"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3414
+msgid ""
+"Paste your facebook post embed code here.This embeded post will be appeared "
+"in two sections-  SOCIAL POSTS and ABOUT section's Social Posts tab. People "
+"can make like, comment and share your embedded post as they could in the "
+"facebook post."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3415
+#, php-format
+msgid ""
+"Just delete the default code and paste your own. If you use <iframe> embed "
+"code here, then you can delete the SDK code above. You can collect your "
+"embed code from %s, or, form your facebook post itself. Don't forget to set "
+"data-width=auto for the responsive purpose. And %s is an awesome English "
+"tutorial made only for you."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3423
+#: inc/portbox-redux-theme-options.php:3430
+msgid "Twitter Tweet Embed"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3424
+msgid "This option panel will help you embed your twitter tweet in your theme."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3431
+msgid ""
+"Paste your twitter tweet embed code in the box.This embeded tweet will be "
+"appeared in two sections- SOCIAL POSTS and ABOUT section's Social Posts tab. "
+"People can reply, retweet and like your embedded tweet as they could on the "
+"twitter tweet."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3432
+#, php-format
+msgid ""
+"You can collect your twitter tweet embed code from your twitter account. "
+"Delete the default code in the box and paste your own. But look!! There may "
+"occur some responsive issues as the twitter embed tweet can response between "
+"250px to 550px. Better set to two column settings and don't use any data-"
+"width value in the blockquote tag. You can go through %s article and %s is a "
+"video tutorial only for you."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3442
+#: inc/portbox-redux-theme-options.php:3449
+msgid "Linkedin Member Profile Embed"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3443
+msgid ""
+"This option panel will help you embed your linkedin member profile in your "
+"theme."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3450
+msgid ""
+"Paste your linkedin member profile embed code here.This embeded member "
+"profile will be appeared in two sections- SOCIAL POSTS and ABOUT section's "
+"Social Posts tab. By clicking the VIEW PROFILE button one can go to your "
+"linkedin profile."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3453
+#, php-format
+msgid ""
+"You can collect your linkedin member profile embed code from %s. Delete the "
+"default code in the box and paste your own. But look!! There is a responsive "
+"issue with this embed code, though, you can set fixed data-width value in "
+"the second script tag of the embed code, like data-width=\"400\". We're "
+"working on it. And a video tutorial you can find %s made only for you."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3460
+#: inc/portbox-redux-theme-options.php:3467
+msgid "Pinterest Board Pin"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3461
+msgid ""
+"This option panel will help you pin up your pinterest board in your theme."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3468
+msgid ""
+"Paste your pinterest board pin code here.This pinterest board will be "
+"appeared in two sections- SOCIAL POSTS and ABOUT section's Social Posts tab."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3471
+#, php-format
+msgid ""
+"You can collect your pinterest board pin code from your pinterest account. "
+"Delete the default code in the box and paste your own. A video tutorial you "
+"can find %s. This tutorial is only for you."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3479
+#: inc/portbox-redux-theme-options.php:3487
+msgid "Google Map"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3482
+msgid "This option panel will help you show google map in your theme"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3488
+msgid ""
+"Paste your google map embed code <iframe> here. The map will be display at "
+"CONTACT section."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3491
+#, php-format
+msgid ""
+"You have to collect your location specific google map embed code i.e., "
+"<iframe> code. Just delete the default code and paste your own. And you must "
+"adjust the width and/or the height attribute value of this <iframe> code "
+"meet your need. Look! This is not google map JavaScript API. Just an "
+"<iframe> embed code. A tutorial can be found %s"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3498
+#: inc/portbox-redux-theme-options.php:3507
+msgid "Google Analytics"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3502
+msgid ""
+"This option panel will help you to use any tracking code like google "
+"analytical code for your theme "
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3508
+msgid ""
+"Google Analytics is a freemium web analytics service offered by Google that "
+"tracks and reports website traffic. This service will help you measure site "
+"traffic, SEO, engagement, ad revenue, and even activity on social media."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3511
+#, php-format
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added before </body> tag. You may use the default code given in the box. You "
+"just need to change UA-XXXXX-X to be your site's ID. Or, you can collect "
+"your own analytic code and paste the whole code in the box. Please place "
+"code inside <script> tags. You can find an awesome video tutorial %s made "
+"only for you."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3525
+msgid "Custom Code"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3526
+msgid ""
+"From this option panel you can write your own code like CSS, JavaScript etc. "
+"to customize your theme to your heart's content."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3533
+msgid "CSS Code"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3534
+msgid ""
+"Paste your CSS code to  be loaded before </head> tag. There is a sample CSS "
+"code in the box. Just delete the code and paste your own."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3537
+msgid ""
+"Paste your CSS code, do not include any tags or HTML in the field. Any "
+"custom CSS entered here will override the theme CSS. In some cases, the !"
+"important tag may be needed. Don't URL encode image or svg paths. Contents "
+"of this field will be auto encoded"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3543
+msgid "JavaScript Code"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3544
+msgid "Paste your JavaScript code to be loaded before </body> tag."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3547
+msgid ""
+"Paste your pure JavaScript code. Any <script> tags are not needed in this "
+"JavaScript code. Just write the code within document ready function which's  "
+"already been existed in the box default. Or, you can delete the default code "
+"and just paste your own."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3553
+msgid "Space Before </head>"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3554
+msgid "Paste your code to be loaded before </head> tag."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3557
+msgid ""
+"Add code before the </head> tag. Only accepts javascript code wrapped with "
+"<script> tags and HTML markup that is valid inside the <head> tag."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3562
+msgid "Space Before </body>"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3563
+msgid "Paste your code to be loaded before </body> tag."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3566
+msgid ""
+"Add code before the </body> tag. Only accepts javascript code, wrapped with "
+"<script> tags and valid HTML markup."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3573
+msgid "Favicon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3575
+msgid ""
+"Uplaod your favicon from this option panel. You have several options to "
+"upload favicon."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3581
+msgid "Favicon Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3582
+msgid ""
+"Upload an image of 32x32px. Any extension like .png, .jpg, .ico you can "
+"upload, but .ico would be great for better compatibility."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3592
+msgid "Blog Page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3593
+msgid "Set your blog page settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3600
+msgid "Blog Page Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3601
+msgid "This section is for blog page title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3607
+msgid "Blog Page Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3608
+#: inc/portbox-redux-theme-options.php:3670
+#: inc/portbox-redux-theme-options.php:3732
+#: inc/portbox-redux-theme-options.php:3786
+#: inc/portbox-redux-theme-options.php:3819
+#: inc/portbox-redux-theme-options.php:3886
+#: inc/portbox-redux-theme-options.php:3919
+#: inc/portbox-redux-theme-options.php:3970
+msgid "Select page title ICON/IMAGE"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3616
+msgid "blog Page Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3617
+#: inc/portbox-redux-theme-options.php:3679
+#: inc/portbox-redux-theme-options.php:3741
+#: inc/portbox-redux-theme-options.php:3795
+#: inc/portbox-redux-theme-options.php:3828
+#: inc/portbox-redux-theme-options.php:3895
+#: inc/portbox-redux-theme-options.php:3928
+#: inc/portbox-redux-theme-options.php:3979
+msgid "This icon will be appeared at the top of the page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3625
+msgid "Blog Page Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3626
+msgid ""
+"Upload the blog page title image if you don't like to use icon. Maximum "
+"image size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3627
+#: inc/portbox-redux-theme-options.php:3689
+#: inc/portbox-redux-theme-options.php:3751
+#: inc/portbox-redux-theme-options.php:3805
+#: inc/portbox-redux-theme-options.php:3905
+#: inc/portbox-redux-theme-options.php:3989
+msgid "This image will be appeared at the top of the page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3633
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3634
+#: inc/portbox-redux-theme-options.php:3635
+#: inc/portbox-redux-theme-options.php:3696
+#: inc/portbox-redux-theme-options.php:3697
+#: inc/portbox-redux-theme-options.php:3845
+#: inc/portbox-redux-theme-options.php:3945
+#: inc/portbox-redux-theme-options.php:3996
+msgid "This title will be appeared below the icon/image"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3641
+msgid "Blog Page Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3642
+#: inc/portbox-redux-theme-options.php:3643
+#: inc/portbox-redux-theme-options.php:3704
+#: inc/portbox-redux-theme-options.php:3705
+#: inc/portbox-redux-theme-options.php:3758
+#: inc/portbox-redux-theme-options.php:3759
+msgid ""
+"Write a short description of the page. Maximum 25-30 words would be fine for "
+"better display."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3654
+msgid "Single Post Page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3655
+msgid "Set your single post page settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3662
+msgid "Single Post Page Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3663
+msgid "This section is for single post page title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3669
+msgid "Single Post Page Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3678
+msgid "Single Post Page Title Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3687
+msgid "Single Post Page Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3688
+msgid ""
+"Upload the single post page title image if you don't like to use icon. "
+"Maximum image size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3695
+msgid "Single Post Page Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3703
+msgid "Single Post Page Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3716
+msgid "Default Page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3717
+msgid "Set your default page settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3724
+msgid "Defualt Page Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3725
+msgid "This section is for default page title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3731
+msgid "Page Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3740
+msgid "Default Page Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3749
+msgid "Default Page Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3750
+msgid ""
+"Upload the default page title image if you don't like to use icon. Maximum "
+"image size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3757
+msgid "Default Page Description"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3770
+msgid "Archive Page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3771
+msgid "Set your Archive page settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3778
+msgid "Archive Page Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3779
+msgid "This section is for archive page title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3785
+msgid "Archive Page Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3794
+msgid "Archive Page Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3803
+msgid "Archive Page Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3804
+msgid ""
+"Upload the archive page title image if you don't like to use icon. Maximum "
+"image size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3811
+msgid "Archive Page Nothing Found"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3812
+msgid ""
+"This section is for archive page nothing found settings. These settings will "
+"be applied only when any archive item could not be found."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3818
+msgid "Archive Page Nothing Found Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3827
+msgid "Archive Page Nothing Found Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3836
+msgid "Archive Page Nothing Found Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3837
+msgid ""
+"Upload the archive page nothing found title image if you don't like to use "
+"icon. Maximum image size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3838
+msgid ""
+"This image will be appeared only when any arhive item could not be found."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3844
+msgid "Archive Page Nothting Found Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3846
+msgid ""
+"This title will be appeared only when any archive item could not be found."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3852
+msgid "Archive Page Nothting Found Content H2 Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3853
+#: inc/portbox-redux-theme-options.php:3854
+msgid "This is the heading of the nothing found content"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3860
+msgid "Archive Page Nothting Found Content H3 Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3861
+msgid "This is the description of the nothing found content"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3862
+msgid "This is the description of the nothing found content."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3870
+msgid "Search Result Page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3871
+msgid "Set your search result page settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3878
+msgid "Search Result Page Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3879
+msgid "This section is for search result page title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3885
+msgid "search Result Page Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3894
+msgid "Search Result Page Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3903
+msgid "Search Result Page Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3904
+msgid ""
+"Upload the search result page title image if you don't like to use icon. "
+"Maximum image size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3911
+msgid "Search Reuslt Page Nothing Found"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3912
+msgid ""
+"This section is for search result page nothing found settings. These "
+"settings will be applied only when any search item could not be found."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3918
+msgid "Search Result Page Nothing Found Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3927
+msgid "search Result Page Nothing Found Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3936
+msgid "Search Result Page Nothing Found Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3937
+msgid ""
+"Upload the search result page nothing found title image if you don't like to "
+"use icon. Maximum image size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3938
+msgid ""
+"This image will be appeared only when any search item could not be found."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3944
+msgid "Blog Page Nothting Found Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3946
+#: inc/portbox-redux-theme-options.php:3997
+msgid ""
+"This title will be appeared only when any search item could not be found."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3954
+msgid "404 Page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3955
+msgid "Set your 404 page settings"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3962
+msgid "404 Page Title Area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3963
+msgid "This section is for 404 page title area"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3969
+msgid "404 Page Title (icon/image)"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3978
+msgid "404 Page Icon"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3987
+msgid "404 Page Title Image Upload"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3988
+msgid ""
+"Upload the 404 page title image if you don't like to use icon. Maximum image "
+"size 172x63 would be great for your disign."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:3995
+msgid "404 Page Title"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4003
+msgid "404 Page Content"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4004
+msgid "This section is for 404 page content."
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4010
+msgid "404 Page Content H3 Text"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4011
+msgid "This is the content text of the 404 page"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4018
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4019
+msgid "Select your Custom CSS file"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4026
+msgid "Theme Stylesheet"
+msgstr ""
+
+#: inc/portbox-redux-theme-options.php:4027
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: inc/portbox-sidebars-init.php:10
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/portbox-sidebars-init.php:11
+msgid "This is right sidebar"
+msgstr ""
+
+#: inc/template-tags.php:23
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:53
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:88
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgid "Categories: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:92
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: inc/template-tags.php:120
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: layouts/about-tab/about-me.php:33 layouts/about-tab/about-me.php:34
+#: layouts/about-tab/about-me.php:35 layouts/about-tab/about-me.php:36
+#: layouts/about-tab/about-me.php:37 layouts/about-tab/about-me.php:38
+#: layouts/about-tab/about-me.php:39
+msgid ":"
+msgstr ""
+
+#: layouts/about-tab/about-my-expertise.php:22
+msgid "html5"
+msgstr ""
+
+#: layouts/about-tab/about-my-expertise.php:29
+msgid "css3"
+msgstr ""
+
+#: layouts/about-tab/about-my-expertise.php:36
+msgid "JavaScript"
+msgstr ""
+
+#: layouts/about-tab/about-my-expertise.php:43
+msgid "jQuery"
+msgstr ""
+
+#: layouts/about-tab/about-my-expertise.php:50
+msgid "php"
+msgstr ""
+
+#: layouts/about-tab/about-my-expertise.php:57
+msgid "wordpress"
+msgstr ""
+
+#: layouts/about-tab/about-my-marketplace.php:30
+#, php-format
+msgid "Click %s to explore my profile"
+msgstr ""
+
+#: layouts/portbox-contact.php:87
+msgid "Address:"
+msgstr ""
+
+#: layouts/portbox-contact.php:88
+msgid "Phone:"
+msgstr ""
+
+#: layouts/portbox-contact.php:89
+msgid "Skype:"
+msgstr ""
+
+#: layouts/portbox-contact.php:90
+msgid "Email:"
+msgstr ""
+
+#: layouts/portbox-contact.php:91
+msgid "Website:"
+msgstr ""
+
+#: layouts/portbox-resume.php:43
+msgid "Education"
+msgstr ""
+
+#: layouts/portbox-resume.php:74
+msgid "Experience"
+msgstr ""
+
+#: layouts/portbox-team.php:74
+msgid "ceo, bdlance e-learning"
+msgstr ""
+
+#: layouts/portbox-testimonial.php:73
+msgid "Please, set the testimonial rank"
+msgstr ""
+
+#: search.php:84
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:125
+msgid "Extremely Sorry!! Nothing Found"
+msgstr ""
+
+#: search.php:128
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:105
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:106
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/page/content-page.php:17 template-parts/post/content.php:57
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-excerpt.php:47
+#: template-parts/post/content.php:45
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/post/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""

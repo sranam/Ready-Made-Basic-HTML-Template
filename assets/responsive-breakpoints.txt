@@ -1,0 +1,28 @@
+Some breakpoints you may use to customize your responsive.css file.
+
+/*==================================================================*/
+/*230px-299px; container:220px;*/
+Crappy Android portrait · width: 240px
+
+/*300px-399px; container:300px*/
+iPhone 5 portrait · width: 320px  
+Crappy Android landscape · width: 320px
+iPhone 6 portrait · width: 375px
+Android (Nexus 4) portrait · width: 384px
+
+/*400px-479px; container:400px;*/
+iPhone 6 Plump portrait · width: 414px
+
+/*480px-699px; container: 450px;*/
+iPhone 5 landscape · width: 568px
+Android (Nexus 4) landscape · width: 600px
+iPhone 6 landscape · width: 667px
+
+/*700px-799px; container: 690*/
+iPhone 6 Plump landscape · width: 736px
+iPad portrait · width: 768px
+
+/*800px-991px; container: 750px;*/
+
+/*992px-1199px; container:960px;*/
+iPad landscape · width: 1024px
