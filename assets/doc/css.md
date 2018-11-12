@@ -14,7 +14,7 @@ Ready Made Starter HTML Template's CSS includes:
 * [Position abosolute fixing](#position-abosolute-fixing)
 * [Input placeholder text cross broser CSS](#Input-placeholder-text-cross-broser-css)
 * [Print styles](#print-styles)
-* [Resposive.css](#responsivecss)
+* [Responsive.css](#responsivecss)
 
 This starting CSS does not rely on the presence of
 [conditional class names](https://www.paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/),
@@ -175,6 +175,6 @@ additional HTTP request](http://www.phpied.com/delay-loading-your-print-css/).
 Also, they should always be included last, so that the other styles can be
 overwritten.
 
-## resposive.css
+## responsive.css
 
 We used an individual file to make the site responsive for several devices. You can make your customized responsive as you needed. The responsive-breakpoints.txt file (within assets directory) will help you in this regard.
