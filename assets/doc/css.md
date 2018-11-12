@@ -7,15 +7,14 @@ Ready Made Starter HTML Template's CSS includes:
 
 * [Normalize.css](#normalizecss)
 * [CSS Header](#css-header)
-* [CSS Table of contents] (#style.css)
-* [HTML5 Boilerplate v6.1.0 CSS] (#style.css)
-* [General CSS] (#style.css)
-* [WordPress Specific CSS] (#style.css)
-* [Common helpers](#common-helpers) (#style.css)
-* [Position abosolute fixing for chrome, safari and opera css] (#style.css)
-* [Input placeholder text cross broser CSS] (#style.css)
-* [Print styles](#print-styles) (#style.css)
-* [Resposive styles](#responsive.css)
+* [CSS Table of contents](#css-table-of-contents)
+* [General CSS](#general-css)
+* [WordPress Specific CSS](#wordpress-specific-css)
+* [Common helpers](#common-helpers)
+* [Position abosolute fixing](#position-abosolute-fixing)
+* [Input placeholder text cross broser CSS](#Input-placeholder-text-cross-broser-css)
+* [Print styles](#print-styles)
+* [Resposive styles](#responsive-css)
 
 This starting CSS does not rely on the presence of
 [conditional class names](https://www.paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/),
