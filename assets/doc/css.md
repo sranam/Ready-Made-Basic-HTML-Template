@@ -6,7 +6,7 @@ table of contents](TOC.md)
 Ready Made Starter HTML Template's CSS includes:
 
 * [Normalize.css](#normalizecss)
-* [CSS Header] (#style.css)
+* [CSS Header] (#style-css)
 * [CSS Table of contents] (#style.css)
 * [HTML5 Boilerplate v6.1.0 CSS] (#style.css)
 * [General CSS] (#style.css)
