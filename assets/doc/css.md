@@ -11,7 +11,7 @@ Ready Made Starter HTML Template's CSS includes:
 * [General CSS](#general-css)
 * [WordPress Specific CSS](#wordpress-specific-css)
 * [Common helpers](#common-helpers)
-* [Position abosolute fixing](#position-abosolute-fixing)
+* [Position absolute fixing](#position-absolute-fixing)
 * [Input placeholder text cross broser CSS](#Input-placeholder-text-cross-broser-css)
 * [Print styles](#print-styles)
 * [Responsive.css](#responsivecss)
@@ -127,7 +127,7 @@ Over the years there have been many variants of the clearfix hack, but currently
 we use the [micro clearfix](http://nicolasgallagher.com/micro-clearfix-hack/).
 
 
-## Position abosolute fixing for chrome, safari and opera css
+## Position absolute fixing
 
 This is a media query to fix the issue with position absolute style for Chrome, Safari and Opera.
 
