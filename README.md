@@ -2,11 +2,11 @@
 
 Ready Made starter HTML Template is a basic html front-end template. It helps developers to start their 
 
-front-end development on the fly.
+front-end web development on the fly.
 
-This template is based on and inspired by [HTML5 Boilerplate](https://html5boilerplate.com/). Thanks a 
+This template is tailored based on [HTML5 Boilerplate] (https://html5boilerplate.com/). Our heartfelt 
 
-bunch to HTML5 Boilerplate and the dedicated team.
+thanks to HTML5 Boilerplate and its dedicated team.
 
 ## Features
 
@@ -16,8 +16,8 @@ on, then you would be a one step closer to it. Go through the HTML, CSS, and jS 
 
 yourself.
 
-* As far as possible, the front-end files are kept in a directory named assets. It is intended to keep 
-
-the root directory neat and clear for back-end files.
-
 * Themeforest standard coding. Developers can use it for their Themeforest project.
+
+* As far as possible, the front-end files are kept in a directory named assets. It is intended that the 
+
+root directory remains neat and clear for back-end files.
