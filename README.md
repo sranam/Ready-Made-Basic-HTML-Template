@@ -5,7 +5,7 @@ front-end web development on the fly.
 
 It is also, most importantly, WordPress-friendly and Themeforest standard.
 
-This template is tailored based on [HTML5 Boilerplate] (https://html5boilerplate.com/). We give HTML5 Boilerplate team our heartfelt thanks for their awesome work.
+This template is tailored based on [HTML5 Boilerplate](https://html5boilerplate.com/). We give HTML5 Boilerplate team our heartfelt thanks for their awesome work.
 
 ## Features
 
