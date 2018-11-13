@@ -18,137 +18,27 @@ Text Domain: rmsht
 /*
 * -----------------CSS TABLE OF CONTENTS---------------------------
 *---------------------------------------------------------------
-	* 01. HTML5 BOILERPLATE v5.2.0 CSS STYLE
-	* 02. GENERAL CSS STYLE
-	* 03. WORDPRESS SPECIFIC CSS STYLE
-	* 04. BOOTSTRAP (v3.3.7) OVERRIDE CSS STYLE
-	* 05. SECTION COMMON CSS STYLE
-	* 06. HEADER SECTION CSS STYLE
-	* 07. SLIDER SECTION CSS STYLE
-	* 08. MAIN MENU SECTION CSS STYLE
-	* 09. STICKY NAVIGATION CSS STYLE
-	* 10. ABOUT SECTION CSS STYLE
-	* 11. RESUME SECTION CSS STYLE
-	* 12. SERVICES SECTION CSS STYLE
-	* 13. PORTFOLIO SECTION CSS STYLE
-	* 14. TESTIMONIAL SECTION CSS STYLE
-	* 15. TEAM SECTION CSS STYLE
-	* 16. BLOG POSTS SECTION CSS STYLE
-	* 17. HIRE FORM SECTION CSS STYLE
-	* 18. CONTACT SECTION CSS STYLE
-	* 19. FOOTER SECTION CSS STYLE
-	* 20. BLOG PAGE (INDEX.PHP) CSS STYLE
-	* 21. CONTENT-NONE.PHP CSS STYLE
-	* 22. POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
-	* 23. INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
-	* 24. SCREEN READER SOFTWARE TEXT STYLE
-	* 25. INDEX AND SINGLE POST CONTENT (<article>), COMMENTS, POST NAVIGATION CSS STYLE
-	* 26. STICKY POSTS CSS STYLE
-	* 27. SIDEBAR CSS STYLE
+	* 01. GENERAL CSS STYLE
+	* 02. WORDPRESS SPECIFIC CSS STYLE
+	* 03. Author's custom styles
+	* 00. Helper classes
+	* 00. POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
+	* 00. INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
+	* 00. Print styles.
 * ----------------------------------------------------------------------------------------
 */
 
 /*
 ----------------------------------------------------------------------------------------
-* 01.HTML5 Boilerplate v6.1.0 CSS STYLE
+* 01.GENERAL CSS STYLE
 ----------------------------------------------------------------------------------------
 */
-
-/*! HTML5 Boilerplate v6.1.0 | MIT License | https://html5boilerplate.com/ */
-
-/*
- * What follows is the result of much research on cross-browser styling.
- * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
- * Kroc Camen, and the H5BP dev community and team.
- */
-
-/* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
 
 html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
 }
-
-/*
- * Remove text-shadow in selection highlight:
- * https://twitter.com/miketaylr/status/12228805301
- *
- * Vendor-prefixed and regular ::selection selectors cannot be combined:
- * https://stackoverflow.com/a/16982510/7133471
- *
- * Customize the background color to match your design.
- */
-
-::-moz-selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-::selection {
-    background: #b3d4fc;
-    text-shadow: none;
-}
-
-/*
- * A better looking default horizontal rule
- */
-
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ccc;
-    margin: 1em 0;
-    padding: 0;
-}
-
-/*
- * Remove the gap between audio, canvas, iframes,
- * images, videos and the bottom of their containers:
- * https://github.com/h5bp/html5-boilerplate/issues/440
- */
-
-audio,
-canvas,
-iframe,
-img,
-svg,
-video {
-    vertical-align: middle;
-}
-
-/*
- * Remove default fieldset styles.
- */
-
-fieldset {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
-
-/*
- * Allow only vertical resizing of textareas.
- */
-
-textarea {
-    resize: vertical;
-}
-
-/*
-----------------------------------------------------------------------------------------
-* 01. /END HTML5 Boilerplate v6.1.0 CSS STYLE
-----------------------------------------------------------------------------------------
-*/
-
-/*
-----------------------------------------------------------------------------------------
-* 02.GENERAL CSS STYLE
-----------------------------------------------------------------------------------------
-*/
 
 body {
 	background-color: #aec8a1; /*#cfb492*/
@@ -165,6 +55,9 @@ body {
     height: 100%
 }
 
+.container{
+	padding: 5%;
+}
 img,
 video{
 	max-width: 100%;
@@ -317,6 +210,25 @@ li > ul, li > ol {
 	margin-bottom: 0;
 	margin-left: 1.5em;
 }
+
+/*
+ * Allow only vertical resizing of textareas.
+ */
+
+textarea {
+    resize: vertical;
+}
+
+/*
+ * Remove default fieldset styles.
+ */
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
 /* list style end */
 
 input[type="text"],
@@ -434,6 +346,129 @@ dd {
 }
 /* definition list style end */
 
+
+/* pre tag style */
+pre h2 {
+	color: #666;
+}
+
+/*
+ * A better looking default horizontal rule
+ */
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+    vertical-align: middle;
+}
+
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * Vendor-prefixed and regular ::selection selectors cannot be combined:
+ * https://stackoverflow.com/a/16982510/7133471
+ *
+ * Customize the background color to match your design.
+ */
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+/*
+----------------------------------------------------------------------------------------
+* 01. /END GENERAL CSS STYLE
+----------------------------------------------------------------------------------------
+*/
+
+/*
+----------------------------------------------------------------------------------------
+* 02.WORDPRESS SPECIFIC CSS STYLE
+----------------------------------------------------------------------------------------
+*/
+
+.alignnone{ float: none }
+
+.alignleft{ 
+	float: left;
+	margin-right: 0px;
+	
+}
+
+.alignright{
+	float: right;
+	margin-left: 0px;
+}
+
+.aligncenter{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+.wp-caption {}
+
+.wp-caption-text{}
+
+.gallery-caption{}
+
+.bypostauthor{}
+
+/* pagination style */
+.page-links {
+	clear: both;
+	margin: 0 0 1.5em;
+	font-size: 0.875rem;
+	font-weight: 800;
+	padding: 3em 0;
+}
+
+.page-links .page-number{
+	background: rgba(102, 102, 102, 0.25) none repeat scroll 0 0;
+	padding: 0.28em 0.6em; /*5px/18px, 10px/18px*/ 
+	font-size: 1.29em; /*18px/14px*/
+	line-height: 2em;
+	color: #333;
+}
+
+.entry-content .page-links > a{
+	background: rgba(102, 102, 102, 0.25) none repeat scroll 0 0;
+	padding: 0.28em 0.6em; /*5px/18px, 10px/18px*/ 
+	font-size: 1.29em; /*18px/14px*/
+	line-height: 2em;
+	color: #333;
+}
+
+.page-links > span.page-number{
+	background: #f18856;
+}
+
 /* photo gallery */
 .gallery-item {
 	display: inline-block;
@@ -503,92 +538,36 @@ dd {
 	margin: 0.8075em 0;
 }
 
-/* pre tag style */
-pre h2 {
-	color: #666;
-}
 
 /*
 ----------------------------------------------------------------------------------------
-* 02. /END GENERAL CSS STYLE
+* 02. /END WORDPRESS SPECIFIC CSS STYLE
 ----------------------------------------------------------------------------------------
 */
 
-/*
-----------------------------------------------------------------------------------------
-* 03.WORDPRESS SPECIFIC CSS STYLE
-----------------------------------------------------------------------------------------
-*/
-
-.alignnone{ float: none }
-
-.alignleft{ 
-	float: left;
-	margin-right: 0px;
-	
-}
-
-.alignright{
-	float: right;
-	margin-left: 0px;
-}
-
-.aligncenter{
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-	clear: both;
-}
-
-.wp-caption {}
-
-.wp-caption-text{}
-
-.gallery-caption{}
-
-.bypostauthor{}
-
-/* pagination style */
-.page-links {
-	clear: both;
-	margin: 0 0 1.5em;
-	font-size: 0.875rem;
-	font-weight: 800;
-	padding: 3em 0;
-}
-
-.page-links .page-number{
-	background: rgba(102, 102, 102, 0.25) none repeat scroll 0 0;
-	padding: 0.28em 0.6em; /*5px/18px, 10px/18px*/ 
-	font-size: 1.29em; /*18px/14px*/
-	line-height: 2em;
-	color: #333;
-}
-
-.entry-content .page-links > a{
-	background: rgba(102, 102, 102, 0.25) none repeat scroll 0 0;
-	padding: 0.28em 0.6em; /*5px/18px, 10px/18px*/ 
-	font-size: 1.29em; /*18px/14px*/
-	line-height: 2em;
-	color: #333;
-}
-
-.page-links > span.page-number{
-	background: #f18856;
-}
 
 /*
 ----------------------------------------------------------------------------------------
-* 03. /END WORDPRESS SPECIFIC CSS STYLE
+* 03. Author's custom styles
 ----------------------------------------------------------------------------------------
 */
 
 
 
 
-/* ==========================================================================
-   Helper classes
-   ========================================================================== */
+
+
+/*
+----------------------------------------------------------------------------------------
+* 03. /End Author's custom styles
+----------------------------------------------------------------------------------------
+*/
+
+/*
+----------------------------------------------------------------------------------------
+* 00. Helper classes
+----------------------------------------------------------------------------------------
+*/
 
 /*
  * Hide visually and from screen readers
@@ -666,9 +645,18 @@ pre h2 {
     clear: both;
 }
 
+
+
 /*
 ----------------------------------------------------------------------------------------
-* 22.POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
+* 00. /end Helper classes
+----------------------------------------------------------------------------------------
+*/
+
+
+/*
+----------------------------------------------------------------------------------------
+* 00.POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
 ----------------------------------------------------------------------------------------
 */
 
@@ -679,12 +667,12 @@ pre h2 {
 
 /*
 ----------------------------------------------------------------------------------------
-* 22. /END POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
+* 00. /END POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
 ----------------------------------------------------------------------------------------
 */
 /*
 ----------------------------------------------------------------------------------------
-* 23.INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
+* 00.INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
 ----------------------------------------------------------------------------------------
 */
 
@@ -710,15 +698,18 @@ textarea::placeholder{
 
 /*
 ----------------------------------------------------------------------------------------
-* 23. /END INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
+* 00. /END INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
 ----------------------------------------------------------------------------------------
 */
 
-/* ==========================================================================
-   Print styles.
+
+/*
+----------------------------------------------------------------------------------------
+* 00. Print styles.
    Inlined to avoid the additional HTTP request:
    https://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+----------------------------------------------------------------------------------------
+*/
 
 @media print {
     *,
@@ -789,3 +780,11 @@ textarea::placeholder{
         page-break-after: avoid;
     }
 }
+
+
+/*
+----------------------------------------------------------------------------------------
+* 00. /END Print styles.
+----------------------------------------------------------------------------------------
+*/
+
