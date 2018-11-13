@@ -5,7 +5,6 @@ table of contents](TOC.md)
 
 * [robots.txt](#robotstxt)
 * [humans.txt](#humanstxt)
-* [browserconfig.xml](#browserconfigxml)
 
 --
 
@@ -61,22 +60,3 @@ If possible, you can also add an author tag to the <head> of the site:
 Look, there is not fight between meta author name and humans.txt link. They are individual.
 
 Moreover, it's not mandatory to include this humans.txt file to your site. The only aim of this initiative is to know who the authors of the sites we visit are.
-
-
-
-## browserconfig.xml
-
-The `browserconfig.xml` file is used to customize the tile displayed when users
-pin your site to the Windows 8.1 start screen. In there you can define custom
-tile colors, custom images or even [live tiles](https://msdn.microsoft.com/library/dn455106.aspx#CreatingLiveTiles).
-
-By default, the file points to 2 placeholder tile images:
-
-* `tile.png` (558x558px): used for `Small`, `Medium` and `Large` tiles.
-  This image resizes automatically when necessary.
-* `tile-wide.png` (558x270px): user for `Wide` tiles.
-
-Notice that IE11 uses the same images when adding a site to the `favorites`.
-
-For more in-depth information about the `browserconfig.xml` file, please
-see [MSDN](https://msdn.microsoft.com/library/dn320426.aspx).
