@@ -1,9 +1,9 @@
-Ready Made Starter HTML Template based on [HTML5 Boilerplate homepage](https://html5boilerplate.com/) | [Documentation
+Ready Made Starter HTML5 Template based on [HTML5 Boilerplate homepage](https://html5boilerplate.com/) | [Documentation
 table of contents](TOC.md)
 
 # Usage
 
-Ready Made Starter HTML Template based on HTML5 Boilerplate is a very basic HTML template. Using this template developers can start their front-end developing instantly from scratch.
+Ready Made Starter HTML5 Template based on HTML5 Boilerplate is a very basic HTML template. Using this template developers can start their front-end developing instantly from scratch.
 
 Though this is an HTML template, developers can use it as a base HTML template for any CMS like WordPress etc. In the `style.css` and `main.js`, there is some code which will be very helpful for WordPress theme development.
 
@@ -11,7 +11,7 @@ Though this is an HTML template, developers can use it as a base HTML template f
 
 ## Basic structure
 
-The Ready Made Starter HTML Template folder includes the following files and folders:
+The Ready Made Starter HTML5 Template folder includes the following files and folders:
 
 ```
 ├── assets

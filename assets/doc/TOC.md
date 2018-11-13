@@ -1,4 +1,4 @@
-Ready Made Starter HTML Template based on [HTML5 Boilerplate homepage](https://html5boilerplate.com/)
+Ready Made Starter HTML5 Template based on [HTML5 Boilerplate homepage](https://html5boilerplate.com/)
 
 ## Getting started
 
