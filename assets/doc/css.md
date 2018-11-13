@@ -49,32 +49,18 @@ In CSS header you can find some info related to the theme. It is mandatory for T
 
 ## CSS Table of contents
 
-Developers find it handy as they can  reach any of the CSS section very easily using it. Moreover, it is recommended for Themeforest standard HTML template/WP theme. Here are some place holder content items. Developers must replace these with theirs.
+This table will help the developers to find styles they want to see in a specific section. This is best practice and themeforest standard.
 
-## HTML5 Boilerplate v6.1.0 CSS
-
-Several base styles are included that build upon `Normalize.css`. These
-styles:
-
-* provide basic typography settings that improve text readability
-* protect against unwanted `text-shadow` during text highlighting
-* tweak the default alignment of some elements (e.g.: `img`, `video`,
-  `fieldset`, `textarea`)
-* style the prompt that is displayed to users using an outdated browser
-
-You are free and even encouraged to modify or add to these base styles as your
-project requires.
-
-## GENERAL CSS STYLE
+## General CSS
 
 Here you can find some common CSS style which can be used throughout the websites.
 
 You are free and even encouraged to modify or add to these base styles as your
 project requires.
 
-## WORDPRESS SPECIFIC CSS 
+## WordPress Specific CSS 
 
-Here is some WordPress specific CSS which is a must for Themeforest standard WordPress theme. And of course, you can use the class for any of your design whether it is CMS based or not.
+Here is some WordPress specific CSS which is a must for Themeforest standard WordPress theme. And of course, you can use the classes for any of your design whether it is WordPress based or not.
 
 ## Common helpers
 
@@ -177,4 +163,4 @@ overwritten.
 
 ## responsive.css
 
-We used an individual file to make the site responsive for several devices. You can make your customized responsive as you needed. The responsive-breakpoints.txt file (within assets directory) will help you in this regard.
+We used an individual file responsive.css to make the site responsive for several devices. You can make your customized responsive as you needed. The responsive-breakpoints.txt file (within assets directory) will help you in this regard.
