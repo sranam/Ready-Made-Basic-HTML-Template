@@ -4,7 +4,7 @@ Ready Made starter HTML Template is a basic html front-end template. It helps de
 
 front-end web development on the fly.
 
-This template is tailored based on [HTML5 Boilerplate] (https://html5boilerplate.com/). Our heartfelt 
+This template is tailored based on [HTML5 Boilerplate] (https://html5boilerplate.com/). We give HTML5 Boilerplate team our heartfelt thanks for their awesome work. 
 
 thanks to HTML5 Boilerplate and its dedicated team.
 
