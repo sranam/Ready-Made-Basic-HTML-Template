@@ -1,11 +1,11 @@
-Ready Made Starter HTML Template based on[HTML5 Boilerplate homepage](https://html5boilerplate.com/) | [Documentation
+Ready Made Starter HTML Template based on [HTML5 Boilerplate homepage](https://html5boilerplate.com/) | [Documentation
 table of contents](TOC.md)
 
 # Usage
 
-Ready Made Starter HTML Template based on HTML5 Boilerplate is a very basic HTML template. Using this template developers can start their template developing instantly from scratch.
+Ready Made Starter HTML Template based on HTML5 Boilerplate is a very basic HTML template. Using this template developers can start their front-end developing instantly from scratch.
 
-Though this is an HTML template, developers can use it as a base HTML template for any CMS like WordPress. In the style.css and main.js, there is some code which will be very helpful for WordPress theme development.
+Though this is an HTML template, developers can use it as a base HTML template for any CMS like WordPress etc. In the `style.css` and `main.js`, there is some code which will be very helpful for WordPress theme development.
 
 
 
@@ -14,7 +14,6 @@ Though this is an HTML template, developers can use it as a base HTML template f
 The Ready Made Starter HTML Template folder includes the following files and folders:
 
 ```
-.
 ├── assets
 |     |--response.css 
 ├     |── css
@@ -41,7 +40,7 @@ The Ready Made Starter HTML Template folder includes the following files and fol
 
 What follows is a general overview of each major part and how to use them.
 
-###assets
+### assets
 
 This directory contains almost all front-end files. It is intended that developers may find the root directory neat and clean to put their CMS specific files in it.
 
@@ -64,7 +63,7 @@ We put HTML5 Boilerplate icons as example. You must replace them with your own.
 If you want to use different Apple Touch Icons for different resolutions please
 refer to the [according documentation](extend.md#apple-touch-icons).
 
-###img
+### img
 
 Put your all images in this directory.
 
