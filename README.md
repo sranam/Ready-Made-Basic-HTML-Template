@@ -13,6 +13,4 @@ This template is tailored based on [HTML5 Boilerplate](https://html5boilerplate.
 on, then you would be a one step closer to it. Go through the HTML, CSS, and jS files and see for 
 yourself.
 * Themeforest standard coding. Developers can use it for their Themeforest project.
-* As far as possible, the front-end files are kept in a directory named assets. It is intended that the 
-
-root directory remains neat and clear for back-end files.
+* As far as possible, the front-end files are kept in a directory named assets. It is intended that the root directory remains neat and clear for back-end files.
