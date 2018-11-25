@@ -14,3 +14,4 @@ on, then you would be a one step closer to it. Go through the HTML, CSS, and jS 
 yourself.
 * Themeforest standard coding. Developers can use it for their Themeforest project.
 * As far as possible, the front-end files are kept in a directory named assets. It is intended that the root directory remains neat and clear for back-end files.
+* em based design.

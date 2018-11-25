@@ -1,5 +1,5 @@
 /*
-* ----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 
 Theme Name: Ready Made Starter HTML5 Template
 Theme URI: http://example.com
@@ -12,25 +12,40 @@ License URI:
 Tags:
 Text Domain: rmsht
 
-* ----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 */
-
 /*
-* -----------------CSS TABLE OF CONTENTS---------------------------
-*---------------------------------------------------------------
-	* 01. GENERAL CSS STYLE
-	* 02. WORDPRESS SPECIFIC CSS STYLE
-	* 03. Author's custom styles
-	* 00. Helper classes
-	* 00. POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
-	* 00. INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
-	* 00. Print styles.
-* ----------------------------------------------------------------------------------------
-*/
+--------------------------------------------------------------------------------------
+>>> TABLE OF CONTENTS
+---------------------------------------------------------------------------------------
 
+# General
+	## Typography
+	## Links
+	## List
+	## Forms
+# WordPress Specific
+	## Accessibility
+	## Alignments
+	## Clearings
+	## Widgets
+	## Posts and pages
+	## pagination
+	## Comments
+	## Media
+	## Captions
+	## Galleries
+# Author's Custom Styles
+# Helper Classes
+# Position: absolute (top:12px)fixing for Chrome, Safari and Opera
+# Input Placeholder Text Cross Browser
+# Print styles
+
+----------------------------------------------------------------------------------------
+*/
 /*
 ----------------------------------------------------------------------------------------
-* 01.GENERAL CSS STYLE
+# General
 ----------------------------------------------------------------------------------------
 */
 
@@ -57,7 +72,12 @@ body {
 
 .container{
 	padding: 5%;
+	-webkit-transition: all 0.6s ease-in 0s;/*android 2.1+, Chr 1-25, iOS 3.2-6.1, Saf 3.2-6*/
+	   -moz-transition: all 0.6s ease-in 0s;
+		 -o-transition: all 0.6s ease-in 0s;
+			transition: all 0.6s ease-in 0s;/*Chr 26, Fx 16+, iOS 7+, IE 10+, Op, Saf 6.1+*/ /*responsive effect*/
 }
+
 img,
 video{
 	max-width: 100%;
@@ -94,7 +114,6 @@ ul li{
 	-ms-word-wrap: break-word;
 }
 
-
 ol li{
 	word-wrap: break-word;
 	-ms-word-wrap: break-word;
@@ -110,7 +129,10 @@ p{
 	margin-bottom: 15px;
 }
 
-/*heading style*/
+/*
+## Typography
+*/
+/* header */
 h1, 
 h2, 
 h3, 
@@ -149,6 +171,7 @@ h4{
 	margin-bottom: 11px;
 	font-size: 1.4375em;/*23px/16px*/
 }
+
 h5{
 	padding-top: 20px;
 	margin-bottom: 10px;
@@ -166,7 +189,10 @@ h4{
 	color: #1c3b15;
 	text-transform: capitalize;
 }
-/* heading style end */
+
+/*
+## End Typography
+*/
 
 li, 
 a,
@@ -179,7 +205,10 @@ div.searchbox{
 	text-decoration: none;
 }
 
-a {
+/*
+## Links
+*/
+a{
 	color: #A36148;
 }
 
@@ -196,7 +225,13 @@ a:focus{
 a:visited{
 }
 
-/*list style*/
+/*
+## End Links
+*/
+/*
+## List
+*/
+
 ul{
 	list-style-type: none;
 }
@@ -212,24 +247,22 @@ li > ul, li > ol {
 }
 
 /*
- * Allow only vertical resizing of textareas.
- */
-
-textarea {
-    resize: vertical;
-}
-
+## End List
+*/
 /*
- * Remove default fieldset styles.
- */
-
+## Forms
+*/
+/* Remove default fieldset styles */
 fieldset {
     border: 0;
     margin: 0;
     padding: 0;
 }
 
-/* list style end */
+/* Allow only vertical resizing of textareas */
+textarea {
+    resize: vertical;
+}
 
 input[type="text"],
 input[type="email"],
@@ -249,8 +282,7 @@ input[type="search"],
 input[type="file"],
 textarea,
 fieldset,
-select,
-.hire_form form input#sproposal[type="submit"]{
+select{
 	/* required to properly style form 
    elements on WebKit based browsers */
 	-webkit-appearance: none;
@@ -280,6 +312,10 @@ p.comment-form-comment label{
 	font-weight: 800;
 }
 
+/*
+## End Forms
+*/
+ 
 iframe{
 	border: 0px; /*instead of frameborder="0" as it's an error of w3c validation (HTML5). delete this attribute form <iframe>*/
 	width: 100%;/*instead of width="100%" as it's an error of w3c validation (HTML5)delete this attribute form <iframe>*/
@@ -287,31 +323,15 @@ iframe{
 
 .fix { overflow: hidden;}
 
-.container,
-.section_overlay1,
-.section_overlay2{
-	-webkit-transition: all 0.6s ease-in 0s;/*android 2.1+, Chr 1-25, iOS 3.2-6.1, Saf 3.2-6*/
-	   -moz-transition: all 0.6s ease-in 0s;
-		 -o-transition: all 0.6s ease-in 0s;
-			transition: all 0.6s ease-in 0s;/*Chr 26, Fx 16+, iOS 7+, IE 10+, Op, Saf 6.1+*/ /*responsive effect*/
-}
 
 i{ 
 	color: #F18856;
 }
 
-.single_page i{
-	float: none;
-}
-.single_page_post i {
-	float: none;
-}
+/*
+## Table 
+*/
 
-a.read_more{
-	font-size: 0.94em; /*15px/16px*/
-}
-
-/* table style */
 table{
 	border-collapse: collapse;
 }
@@ -338,14 +358,14 @@ tbody th a{
 td{
 	padding: 5px;
 }
-/* table style end */
 
-/*definition list style*/
 dd {
   margin: 0 1.5em 1.5em;
 }
-/* definition list style end */
 
+/*
+## End Table 
+*/
 
 /* pre tag style */
 pre h2 {
@@ -402,14 +422,66 @@ video {
 
 /*
 ----------------------------------------------------------------------------------------
-* 01. /END GENERAL CSS STYLE
+# /END General
 ----------------------------------------------------------------------------------------
 */
 
 /*
 ----------------------------------------------------------------------------------------
-* 02.WORDPRESS SPECIFIC CSS STYLE
+# WordPress Specific
 ----------------------------------------------------------------------------------------
+*/
+
+/*
+## Accessibility
+*/
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	border: 0;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	height: 1px;
+	margin: -1px;
+	overflow: hidden;
+	padding: 0;
+	position: absolute !important;
+	width: 1px;
+	word-wrap: normal !important; /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+}
+
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	clip-path: none;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000;
+	/* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+	outline: 0;
+}
+
+/*
+## End Accessibility
+*/
+/*
+## Alignments
 */
 
 .alignnone{ float: none }
@@ -432,15 +504,88 @@ video {
 	clear: both;
 }
 
-.wp-caption {}
+/*
+## End Alignments
+*/
+/*
+## Clearings
+*/
 
-.wp-caption-text{}
+.clear:before,
+.clear:after,
+.entry-content:before,
+.entry-content:after,
+.comment-content:before,
+.comment-content:after,
+.site-header:before,
+.site-header:after,
+.site-content:before,
+.site-content:after,
+.site-footer:before,
+.site-footer:after {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
 
-.gallery-caption{}
+.clear:after,
+.entry-content:after,
+.comment-content:after,
+.site-header:after,
+.site-content:after,
+.site-footer:after {
+	clear: both;
+}
 
-.bypostauthor{}
+/*
+## End Clearings
+*/
+/*
+## Widgets
+*/
 
-/* pagination style */
+.widget {
+	margin: 0 0 1.5em;
+	/* Make sure select elements fit in widgets. */
+}
+
+.widget select {
+	max-width: 100%;
+}
+
+/*
+## End Widgets
+*/
+/*
+## Posts and pages
+*/
+
+.sticky {
+	display: block;
+}
+
+.post,
+.page {
+	margin: 0 0 1.5em;
+}
+
+.updated:not(.published) {
+	display: none;
+}
+
+.page-content,
+.entry-content,
+.entry-summary {
+	margin: 1.5em 0 0;
+}
+
+/*
+## End Posts and pages
+*/
+/* 
+## pagination
+*/
+
 .page-links {
 	clear: both;
 	margin: 0 0 1.5em;
@@ -469,7 +614,81 @@ video {
 	background: #f18856;
 }
 
-/* photo gallery */
+/* 
+## End pagination
+*/
+/*
+## Comments
+*/
+
+.bypostauthor{
+	display: block;
+}
+
+/*
+## End Comments
+*/
+/*
+## Media
+*/
+
+.page-content .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+	border: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0;
+}
+
+/* Make sure embeds and iframes fit their containers. */
+embed,
+iframe,
+object {
+	max-width: 100%;
+}
+
+/* Make sure logo link wraps around logo image. */
+.custom-logo-link {
+	display: inline-block;
+}
+
+/*
+## End Media
+*/
+/*
+## Captions
+*/
+.wp-caption {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.wp-caption .wp-caption-text {
+	margin: 0.8075em 0;
+}
+
+.wp-caption-text {
+	text-align: center;
+}
+
+/*
+## End Captions
+*/
+/* 
+## Galleries
+*/
+
+.gallery {
+	margin-bottom: 1.5em;
+}
+
 .gallery-item {
 	display: inline-block;
 	margin: 0 0 1.5em;
@@ -534,40 +753,42 @@ video {
 	max-width: 100%;
 }
 
-.wp-caption .wp-caption-text {
-	margin: 0.8075em 0;
+/* 
+## End Galleries
+*/
+
+/*
+----------------------------------------------------------------------------------------
+# /END WordPress Specific
+----------------------------------------------------------------------------------------
+*/
+/*
+----------------------------------------------------------------------------------------
+# Author's Custom Styles
+----------------------------------------------------------------------------------------
+*/
+
+
+
+
+
+
+/*
+----------------------------------------------------------------------------------------
+#  /End Author's Custom Styles
+----------------------------------------------------------------------------------------
+*/
+/*
+----------------------------------------------------------------------------------------
+# Helper Classes
+----------------------------------------------------------------------------------------
+*/
+
+/* Read More Button */
+a.read_more{
+	font-size: 0.94em; /*15px/16px*/
 }
 
-
-/*
-----------------------------------------------------------------------------------------
-* 02. /END WORDPRESS SPECIFIC CSS STYLE
-----------------------------------------------------------------------------------------
-*/
-
-
-/*
-----------------------------------------------------------------------------------------
-* 03. Author's custom styles
-----------------------------------------------------------------------------------------
-*/
-
-
-
-
-
-
-/*
-----------------------------------------------------------------------------------------
-* 03. /End Author's custom styles
-----------------------------------------------------------------------------------------
-*/
-
-/*
-----------------------------------------------------------------------------------------
-* 00. Helper classes
-----------------------------------------------------------------------------------------
-*/
 
 /*
  * Hide visually and from screen readers
@@ -646,17 +867,14 @@ video {
 }
 
 
-
 /*
 ----------------------------------------------------------------------------------------
-* 00. /end Helper classes
+# /end Helper Classes
 ----------------------------------------------------------------------------------------
 */
-
-
 /*
 ----------------------------------------------------------------------------------------
-* 00.POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
+# Position: absolute (top:12px)fixing for Chrome, Safari and Opera
 ----------------------------------------------------------------------------------------
 */
 
@@ -667,12 +885,12 @@ video {
 
 /*
 ----------------------------------------------------------------------------------------
-* 00. /END POSITION: ABSOLUTE (TOP:12PX)FIXING FOR CHROME,SAFARI AND OPERA CSS STYLE
+# /END Position: absolute (top:12px)fixing for Chrome, Safari and Opera
 ----------------------------------------------------------------------------------------
 */
 /*
 ----------------------------------------------------------------------------------------
-* 00.INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
+# Input Placeholder Text Cross Browser
 ----------------------------------------------------------------------------------------
 */
 
@@ -698,14 +916,12 @@ textarea::placeholder{
 
 /*
 ----------------------------------------------------------------------------------------
-* 00. /END INPUT PLACEHOLDER TEXT CROSS BROWSER CSS STYLE
+# /END Input Placeholder Text Cross Browser
 ----------------------------------------------------------------------------------------
 */
-
-
 /*
 ----------------------------------------------------------------------------------------
-* 00. Print styles.
+# Print styles
    Inlined to avoid the additional HTTP request:
    https://www.phpied.com/delay-loading-your-print-css/
 ----------------------------------------------------------------------------------------
@@ -781,10 +997,9 @@ textarea::placeholder{
     }
 }
 
-
 /*
 ----------------------------------------------------------------------------------------
-* 00. /END Print styles.
+# /END Print styles
 ----------------------------------------------------------------------------------------
 */
 
