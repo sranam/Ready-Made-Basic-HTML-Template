@@ -669,6 +669,12 @@ object {
 /* Make sure logo link wraps around logo image. */
 .custom-logo-link {
 	display: inline-block;
+	width: auto;
+}
+.custom-logo-link img {
+	display: inline-block;
+	max-height: 80px;
+	width: auto;
 }
 
 /*
